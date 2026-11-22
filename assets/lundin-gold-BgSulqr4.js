@@ -1,0 +1,1 @@
+var e=`/portal-empleado-demo/assets/aurelian-ecuador-B11BUxft.png`,t=`/portal-empleado-demo/assets/lundin-gold-D4a3NbC8.png`;export{e as n,t};

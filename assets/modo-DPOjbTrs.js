@@ -1,0 +1,1 @@
+var e=`Portal.Ficticio.2026`,t=[{correo:`carlos.mora@ejemplo.test`,nombre:`Carlos Mora`},{correo:`maria.andrade@ejemplo.test`,nombre:`María Andrade`}];export{t as n,e as t};
